@@ -151,6 +151,16 @@ E.g.,  ![river][rv]
 
 ## Code snippets
 
+### Inline code
+
+```
+` `
+```
+E.g.,  
+you can check python's version by the command `python -V` or `python --version`
+
+### Code block
+
 ```
 ```language
 code
