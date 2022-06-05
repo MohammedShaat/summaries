@@ -14,7 +14,7 @@ E.g., **text**
 
 ### Italic
 
-`_text_`
+`_text_` or `*text*`
 
 E.g., _text_
 
