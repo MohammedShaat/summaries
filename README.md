@@ -208,7 +208,12 @@ E.g.,  \*text\*
 
 ## Tables
 
-``
+`-` for each column's header, and `|` to seperate each column
+```
+|column 1|column 2|
+|--------|--------|
+|        |        |
+```
 
 E.g., 
 
