@@ -124,7 +124,7 @@ Shows results/articles that thier title contains the word or sentence.
 intitle: developer
 ```
 
- ## 14- `intitle: `
+ ## 14- `link: `
 
 Shows sites that contain/refer/redirect to the specific domain.
 
