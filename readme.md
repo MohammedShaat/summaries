@@ -18,3 +18,6 @@ I write here my notes and summarize what I learn, as a reference for me
   - [Bulledted List](topics/markdown/list.md/#bulleted-list)
   - [Numbered List](topics/markdown/list.md/#numbered-list)
   - [Nested List](topics/markdown/list.md/#nested-list)
+- [Checkbox](topics/markdown/checkbox.md)
+  - [Unchecked Box](topics/markdown/checkbox.md/#unchecked-box)
+  - [Checked Box](topics/markdown/checkbox.md/#=checked-box)
