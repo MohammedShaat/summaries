@@ -26,3 +26,7 @@ I write here my notes and summarize what I learn, as a reference for me
 - [Links](topics/markdown/links.md/)
   - [Inline Style](topics/markdown/links.md/#inline-style)
   - [Reference Style](topics/markdown/links.md/#reference-style)
+- [Clickable Emails](topics/markdown/clickable-emails.md/)
+- [Images](topics/markdown/images.md/)
+  - [Inline Style](topics/markdown/images.md/#inline-style)
+  - [Reference Style](topics/markdown/images.md/#reference-style)
