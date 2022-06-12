@@ -20,4 +20,4 @@ I write here my notes and summarize what I learn, as a reference for me
   - [Nested List](topics/markdown/list.md/#nested-list)
 - [Checkbox](topics/markdown/checkbox.md)
   - [Unchecked Box](topics/markdown/checkbox.md/#unchecked-box)
-  - [Checked Box](topics/markdown/checkbox.md/#=checked-box)
+  - [Checked Box](topics/markdown/checkbox.md/#checked-box)
