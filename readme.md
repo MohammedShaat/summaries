@@ -23,3 +23,6 @@ I write here my notes and summarize what I learn, as a reference for me
   - [Checked Box](topics/markdown/checkbox.md/#checked-box)
 - [Quote](topics/markdown/quote.md/)
   - [Nested Quote](topics/markdown/quote.md/#nested-quote)
+- [Links](topics/markdown/links.md/)
+  - [Inline Style](topics/markdown/quote.md/#inline-style)
+  - [Reference Style](topics/markdown/quote.md/#reference-style)
