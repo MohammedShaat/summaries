@@ -1,0 +1,6 @@
+# Separations / Divider
+
+`---`
+
+**Example**
+---
