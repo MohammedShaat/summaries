@@ -30,3 +30,7 @@ I write here my notes and summarize what I learn, as a reference for me
 - [Images](topics/markdown/images.md/)
   - [Inline Style](topics/markdown/images.md/#inline-style)
   - [Reference Style](topics/markdown/images.md/#reference-style)
+- [Code](topics/markdown/code.md/)
+  - [Inline Code](topics/markdown/code.md/#Inline-code)
+  - [Code Block](topics/markdown/code.md/#code-block)
+  - [Show Changes](topics/markdown/code.md/#show-changes)
