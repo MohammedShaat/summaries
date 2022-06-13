@@ -4,6 +4,7 @@ I write here my notes and summarize what I learn, as a reference for me
 
 ## Topics
 - [Markdown](#markdown-)
+- [Searching Techniques](#searching-techniques-)
 
 ---
 
@@ -37,3 +38,20 @@ I write here my notes and summarize what I learn, as a reference for me
 - [Separation / Divider](topics/markdown/separation.md/#separations--divider)
 - [Escape](topics/markdown/escape.md/#escape)
 - [Table](topics/markdown/table.md/#table)
+
+
+### Searching Techniques [🔗](topics/searching-techniques)
+- [" "](topics/searching-techniques/quotation.md/#-)
+- [site: ](topics/searching-techniques/site.md/#site)
+- [-](topics/searching-techniques/hyphen.md/#-)
+- [after : ](topics/searching-techniques/after.md/#after-)
+- [before : ](topics/searching-techniques/before.md/#before-)
+- [..](topics/searching-techniques/double-dots.md/#)
+- [or](topics/searching-techniques/or.md/#or)
+- [and) or (+](topics/searching-techniques/and-or-plus.md/#and-or-)
+- [*](topics/searching-techniques/asterisk.md/#)
+- [file : ](topics/searching-techniques/file.md/#file-)
+- [~](topics/searching-techniques/tilde.md/#)
+- [related:](topics/searching-techniques/related.md/#related)
+- [intitle: ](topics/searching-techniques/intitle.md/#intitle)
+- [link:](topics/searching-techniques/link.md/#link)
