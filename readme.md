@@ -1,14 +1,16 @@
 # Summaries & Notes
 
-I write here my notes and summarize what I learn, as a reference for me
+I write here my notes and summarize what I learn, as a reference for me.
+
+> Note: click on the folder icon to redirect to the topic's folder
 
 ## Topics
-- [Markdown](#markdown-)
-- [Searching Techniques](#searching-techniques-)
+- [Markdown](#markdown-) [📁​](topics/markdown/readme.md/#markdown)
+- [Searching Techniques](#searching-techniques-) [📁​](topics/searching-techniques/readme.md/#searching-techniques)
 
 ---
 
-### Markdown [🔗](topics/markdown/readme.md/#markdown)
+### Markdown [📁](topics/markdown/readme.md/#markdown)
 - [Heading](topics/markdown/heading.md)
 - [Text formattting](topics/markdown/text-formatting.md)
   - [Bold](topics/markdown/text-formatting.md/#bold)
@@ -40,7 +42,7 @@ I write here my notes and summarize what I learn, as a reference for me
 - [Table](topics/markdown/table.md/#table)
 
 
-### Searching Techniques [🔗](topics/searching-techniques/readme.md/#searching-techniques)
+### Searching Techniques [📁](topics/searching-techniques/readme.md/#searching-techniques)
 - [" "](topics/searching-techniques/quotation.md/#-)
 - [site: ](topics/searching-techniques/site.md/#site)
 - [-](topics/searching-techniques/hyphen.md/#-)
