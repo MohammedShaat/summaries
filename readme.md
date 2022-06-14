@@ -1,18 +1,21 @@
 # Summaries & Notes
 
-I write here my notes and summarize what I learn, as a reference for me.
+I write here my notes and summarize what I learn, as a reference.
 
-> Note: click on the folder icon to redirect to the topic's directory
+Note: click on the folder icon `📁` to redirect to the topic's directory
+
+>Have a lovely day :)
 
 ## Topics
 - [Markdown](#markdown-) [📁​](topics/markdown/#markdown)
 - [Searching Techniques](#searching-techniques-) [📁​](topics/searching-techniques/#searching-techniques)
+- [Git](#git-) [📁​](topics/git/#commands)
 
 ---
 
 ### Markdown [📁](topics/markdown/#markdown)
 - [Heading](topics/markdown/heading.md)
-- [Text formattting](topics/markdown/text-formatting.md)
+- [Text Formattting](topics/markdown/text-formatting.md)
   - [Bold](topics/markdown/text-formatting.md/#bold)
   - [Italic](topics/markdown/text-formatting.md/#italic)
   - [Strikethrough](topics/markdown/text-formatting.md/#strikethrough)
@@ -57,3 +60,17 @@ I write here my notes and summarize what I learn, as a reference for me.
 - [related:](topics/searching-techniques/related.md/#related)
 - [intitle: ](topics/searching-techniques/intitle.md/#intitle)
 - [link:](topics/searching-techniques/link.md/#link)
+
+
+### Git [📁](topics/git/#commands)
+- [Create A Directory](topics/git/create-a-directory.md/#create-a-directory)
+- [Remove A Directory](topics/git/remove-a-directory.md/#remove-a-directory)
+- [List All Files Except Hidden Files](topics/git/list-all-files-except-hidden-files.md/#list-all-files-except-hidden-files)
+  - [List One File Per Line](topics/git/list-all-files-except-hidden-files.md/#list-one-file-per-line)
+  - [List With Details](topics/git/list-all-files-except-hidden-files.md/#list-with-details)
+- [List All Files And Hidden Files](topics/git/list-all-files-and-hidden-files.md/#list-all-files-and-hidden-files)
+  - [List One File Per Line](topics/git/list-all-files-and-hidden-files.md/#list-one-file-per-line)
+  - [List With Details](topics/git/list-all-files-and-hidden-files.md/#list-with-details)
+- [Start A New Git Repository](topics/git/start-a-new-git-repository.md/#start-a-new-repository)
+  - [Start A New Git Repository In The Current Directory](topics/git/start-a-new-git-repository.md/#start-a-new-repository-in-the-current-directory)
+- [Display The State Of The Working Directory And The Staging Area](topics/git/display-the-state-of-the-working-directory-and-the-staging-area.md/#display-the-state-of-the-working-directory-and-the-staging-area)
