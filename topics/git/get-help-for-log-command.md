@@ -9,4 +9,4 @@ $git help log
 ```
 **result**
 a page contains descripition for the command.
-![git help log](help-log.png)
+![git help log](images/help-log.png)

@@ -88,3 +88,7 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
 - [Delete A File](topics/git/delete-a-file.md#delete-a-file)
 - [Delete A Directory](topics/git/delete-a-directory.md#delete-a-directory)
 - [(add .), (add -A), (add -u)](topics/git/add-dot-add-a-add-u.md#add--add--a-add--u)
+- [Compare Differences Between Two Commits](topics/git/compare-differences-between-two-commits.md#compare-differences-between-two-commits)
+  - [Compare Differences Between Changes In The Working Directory And Head](topics/git/compare-differences-between-two-commits.md#compare-differences-between-changes-in-the-working-directory-and-head)
+- [Create A New Branch](topics/git/create-a-new-branch.md#create-a-new-branch)
+- [Swithc To Another Branch](topics/git/switch-to-another-branch.md#switch-to-another-branch)
