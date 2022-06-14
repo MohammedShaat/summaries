@@ -82,3 +82,4 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
   - [Show A Graphical Overview Of Branching And Merging](topics/git/list-commits.md#show-a-graphical-overview-of-branching-and-merging)
   - [List Commits Of All Branches (ahead branches' commits)](topics/git/list-commits.md#list-commits-of-all-branches)
 - [List Tracked Files](topics/git/list-tracked-files.md#list-tracked-files)
+- [Get Help For Log Command](topics/git/get-help-for-log-command.md#get-help-for-log-command)

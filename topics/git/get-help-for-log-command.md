@@ -4,4 +4,9 @@
 
 
 **Example**
-`$git help log`
+```
+$git help log
+```
+**result**
+a page contains descripition for the command.
+![git help log](help-log.png)
