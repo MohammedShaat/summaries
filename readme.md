@@ -81,4 +81,4 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
 - [List Commits](topics/git/list-commits.md/#list-commits)
   - [List Each Commit In Only One Line](topics/git/list-commits.md/#list-each-commit-in-only-one-line)
   - [Show A Graphical Overview Of Branching And Merging](topics/git/list-commits.md/#show-a-graphical-overview-of-branching-and-merging)
-  - [List Commits Of All Branches](topics/git/list-commits.md/#list-commits-of-all-branches)
+  - [List Commits Of All Branches (ahead branches' commits)](topics/git/list-commits.md/#list-commits-of-all-branches)
