@@ -74,3 +74,7 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
 - [Start A New Git Repository](topics/git/start-a-new-git-repository.md/#start-a-new-repository)
   - [Start A New Git Repository In The Current Directory](topics/git/start-a-new-git-repository.md/#start-a-new-repository-in-the-current-directory)
 - [Display The State Of The Working Directory And The Staging Area](topics/git/display-the-state-of-the-working-directory-and-the-staging-area.md/#display-the-state-of-the-working-directory-and-the-staging-area)
+- [Add A Change In The Working Directory To The Staging Area](topics/git/add-a-change-in-the-working-directory-to-the-staging-area.md/#add-a-change-in-the-working-directory-to-the-staging-area)
+  - [Add All Changes](topics/git/add-a-change-in-the-working-directory-to-the-staging-area.md/#add-all-changes)
+- [Save Changes To The Local Repository](topics/git/save-changes-to-the-local-repository.md/#save-changes-to-the-local-repository)
+  - [Stage Modified Tracked Files And Commit Them In One Command](topics/git/save-changes-to-the-local-repository.md/#stage-modified-tracked-files-and-commit-them-in-one-command)
