@@ -87,3 +87,4 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
 - [Rename A File Or A Directory](topics/git/rename-a-file-or-a-directory.md#rename-a-file-or-a-directory)
 - [Delete A File](topics/git/delete-a-file.md#delete-a-file)
 - [Delete A Directory](topics/git/delete-a-directory.md#delete-a-directory)
+- [(add .), (add -A), (add -u)](topics/git/add-dot-add-a-add-u.md)
