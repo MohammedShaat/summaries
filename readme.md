@@ -2,7 +2,7 @@
 
 I write here my notes and summarize what I learn, as a reference for me.
 
-> Note: click on the folder icon to redirect to the topic's folder
+> Note: click on the folder icon to redirect to the topic's directory
 
 ## Topics
 - [Markdown](#markdown-) [📁​](topics/markdown/#markdown)
