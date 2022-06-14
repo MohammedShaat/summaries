@@ -1,16 +1,8 @@
-# Summaries & Notes
+# Markdown
 
-I write here my notes and summarize what I learn, as a reference for me.
+**Markdown** is a markup language that determines how the content is displayed (Content structure).
 
-> Note: click on the folder icon to redirect to the topic's directory
-
-## Topics
-- [Markdown](#markdown-) [📁​](topics/markdown/#markdown)
-- [Searching Techniques](#searching-techniques-) [📁​](topics/searching-techniques/#searching-techniques)
-
----
-
-### Markdown [📁](topics/markdown/#markdown)
+## Syntax (structures)
 - [Heading](topics/markdown/heading.md)
 - [Text formattting](topics/markdown/text-formatting.md)
   - [Bold](topics/markdown/text-formatting.md/#bold)
@@ -40,20 +32,3 @@ I write here my notes and summarize what I learn, as a reference for me.
 - [Separation / Divider](topics/markdown/separation.md/#separations--divider)
 - [Escape](topics/markdown/escape.md/#escape)
 - [Table](topics/markdown/table.md/#table)
-
-
-### Searching Techniques [📁](topics/searching-techniques/#searching-techniques)
-- [" "](topics/searching-techniques/quotation.md/#-)
-- [site: ](topics/searching-techniques/site.md/#site)
-- [-](topics/searching-techniques/hyphen.md/#-)
-- [after : ](topics/searching-techniques/after.md/#after-)
-- [before : ](topics/searching-techniques/before.md/#before-)
-- [..](topics/searching-techniques/double-dots.md/#)
-- [or](topics/searching-techniques/or.md/#or)
-- [and) or (+](topics/searching-techniques/and-or-plus.md/#and-or-)
-- [*](topics/searching-techniques/asterisk.md/#)
-- [file : ](topics/searching-techniques/file.md/#file-)
-- [~](topics/searching-techniques/tilde.md/#)
-- [related:](topics/searching-techniques/related.md/#related)
-- [intitle: ](topics/searching-techniques/intitle.md/#intitle)
-- [link:](topics/searching-techniques/link.md/#link)
