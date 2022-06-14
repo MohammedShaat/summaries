@@ -11,13 +11,7 @@ $ git log
 
 **result**
 ```
-commit f885ecc0bdb6488ce901868262a4c13f600fea9b (HEAD -> update-branch, origin/update-branch)
-Author: Mohammed Shaat <mohammedshaat.it@gmail.com>
-Date:   Tue Jun 14 13:49:15 2022 +0300
-
-    Add topics/git/list-commits.md
-
-commit 2032b28b5ca0fafbb147477e9655840fa59fb8f0 (origin/main, origin/HEAD, main)
+commit 2032b28b5ca0fafbb147477e9655840fa59fb8f0 (HEAD -> main, origin/main, origin/HEAD)
 Author: Mohammed Shaat <mohammedshaat.it@gmail.com>
 Date:   Tue Jun 14 12:49:18 2022 +0300
 
@@ -29,6 +23,14 @@ Date:   Tue Jun 14 12:09:08 2022 +0300
 
     Edit readme.md, Add Git lists of links
 
+commit afd48b9b28b243fa43806627a080acba437a7d48
+Merge: c551cf9 f388f55
+Author: Mohammed Osama Shaat <62177897+MohammedShaat@users.noreply.github.com>
+Date:   Tue Jun 14 10:03:34 2022 +0300
+
+    Merge pull request #5 from MohammedShaat/update-branch
+
+    Split searchingTechniques.md to sub files
 ```
 
 ## List Each Commit in Only One line
@@ -44,9 +46,9 @@ $ git log --oneline
 
 **result**
 ```
-f885ecc (HEAD -> update-branch, origin/update-branch) Add topics/git/list-commits.md
-2032b28 (origin/main, origin/HEAD, main) Add git files
+2032b28 (HEAD -> main, origin/main, origin/HEAD) Add git files
 0e2dbdb Edit readme.md, Add Git lists of links
+afd48b9 Merge pull request #5 from MohammedShaat/update-branch
 ```
 
 ## Show A Graphical Overview Of Branching And Merging
@@ -55,13 +57,12 @@ f885ecc (HEAD -> update-branch, origin/update-branch) Add topics/git/list-commit
 
 **Example**
 ```
-$ git log --graph
+$ git log --oneline --graph
 ```
 
 **result**
 ```
-* f885ecc (HEAD -> update-branch, origin/update-branch) Add topics/git/list-commits.md
-* 2032b28 (origin/main, origin/HEAD, main) Add git files
+* 2032b28 (HEAD -> main, origin/main, origin/HEAD) Add git files
 * 0e2dbdb Edit readme.md, Add Git lists of links
 *   afd48b9 Merge pull request #5 from MohammedShaat/update-branch
 |\
@@ -78,4 +79,39 @@ $ git log --graph
 | * f0eabea Modify readme.md, Markdown's link
 |/
 *   c551cf9 Merge pull request #3 from MohammedShaat/update-branch
+```
+
+## List Commits Of All Branches
+
+`git log --all`
+
+When there is a branch ahead of the current branch by N commits those aren't listed. So `--all` lists commits including ahead branches' commits. 
+
+**Example**
+
+**Wihtout** using `--all`
+```
+$ git log --oneline --graph
+```
+**result**
+```
+* 2032b28 (HEAD -> main, origin/main, origin/HEAD) Add git files
+* 0e2dbdb Edit readme.md, Add Git lists of links
+*   afd48b9 Merge pull request #5 from MohammedShaat/update-branch
+```
+
+---
+
+**With** using `--all`
+```
+$ git log --oneline --graph -all
+```
+
+**result**
+```
+* 471def9 (update-branch) Edit topics/git/list-commits.md
+* f885ecc (origin/update-branch) Add topics/git/list-commits.md
+* 2032b28 (HEAD -> main, origin/main, origin/HEAD) Add git files
+* 0e2dbdb Edit readme.md, Add Git lists of links
+*   afd48b9 Merge pull request #5 from MohammedShaat/update-branch
 ```

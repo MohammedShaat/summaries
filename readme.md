@@ -80,3 +80,5 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
   - [Stage Modified Tracked Files And Commit Them In One Command](topics/git/save-changes-to-the-local-repository.md/#stage-modified-tracked-files-and-commit-them-in-one-command)
 - [List Commits](topics/git/list-commits.md/#list-commits)
   - [List Each Commit In Only One Line](topics/git/list-commits.md/#list-each-commit-in-only-one-line)
+  - [Show A Graphical Overview Of Branching And Merging](topics/git/list-commits.md/#show-a-graphical-overview-of-branching-and-merging)
+  - [List Commits Of All Branches](topics/git/list-commits.md/#list-commits-of-all-branches)
