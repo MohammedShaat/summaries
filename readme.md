@@ -78,3 +78,5 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
   - [Add All Changes](topics/git/add-a-change-in-the-working-directory-to-the-staging-area.md/#add-all-changes)
 - [Save Changes To The Local Repository](topics/git/save-changes-to-the-local-repository.md/#save-changes-to-the-local-repository)
   - [Stage Modified Tracked Files And Commit Them In One Command](topics/git/save-changes-to-the-local-repository.md/#stage-modified-tracked-files-and-commit-them-in-one-command)
+- [List Commits](topics/git/list-commits.md/#list-commits)
+  - [List Each Commit In Only One Line](topics/git/list-commits.md/#list-each-commit-in-only-one-line)
