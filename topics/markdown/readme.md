@@ -3,8 +3,8 @@
 **Markdown** is a markup language that determines how the content is displayed (Content structure).
 
 ## Syntax (structures)
-- [Heading](heading.md)
-- [Text formattting](text-formatting.md)
+- [Heading](heading.md#heading)
+- [Text formattting](text-formatting.md#text-formatting)
   - [Bold](text-formatting.md/#bold)
   - [Italic](text-formatting.md/#italic)
   - [Strikethrough](text-formatting.md/#strikethrough)
