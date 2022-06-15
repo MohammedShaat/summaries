@@ -1,5 +1,9 @@
 # Create A Stash
 
+**Stash:** Temporarily stashes/hides changes which in the working directory and staging area, to reapply them later.
+
+Let's say that you are doing some changes on your project and in the mid of the way you decided to do something else but at the same time you don't want to lose what you are doing, here comes the importance of *stash*
+
 `git stash`
 
 **Example**
