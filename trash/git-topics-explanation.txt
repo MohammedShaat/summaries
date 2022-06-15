@@ -1,0 +1,103 @@
+* Local Git States:
+
+    1- Working Directiry:
+
+        Contains all files and folders of the project, which may or may not be managed by Git.
+
+
+    2- Staging Area:
+
+        Used to prepare for the next commit.
+
+
+    3- Repository:
+
+        Contains commited or saved changes to Git repository.
+
+
+==========================================================================================
+
+
+* Tag:
+
+    Tagging specific points/commits (e.g., marking releases/versions points)
+
+
+==========================================================================================
+
+
+* Stash:
+
+    Stash the current changes of the working directory and back to a clean working directory (back to the last commit/HEAD)
+
+
+==========================================================================================
+
+
+* Reset Modes:
+
+    1- hard:
+
+        * Reset Staging Area and Working Directory, to match the commit.
+
+        * Working Dirctory: reset to match the commit
+
+        * git status:
+            Staging Area: 
+                clear
+
+            Working Directory: 
+                clear
+        ----------
+
+    2- mixed:
+
+        * Reset Staging Area and moves changes in it into Working Directory.
+
+        * Working Dirctory: Everything remains as it.
+
+        * git status:
+            Staging Area: 
+                clear
+
+            Working Directory: 
+                previous
+                + show differences
+        ----------
+
+    3- soft:
+    
+        Staging Area and Working Directory are not touched.
+
+        
+        * Does not reset anything.
+
+        * Working Dirctory: Everything remains as it.
+
+        * git status:
+            Staging Area: 
+                previous
+                + show differences
+
+            Working Directory: 
+                previous
+        ----------
+        
+
+==========================================================================================
+
+
+* fetch vs pull:
+    
+    1- fetch:
+        
+        Fetches/downloads changes from the remote repository to the local repository (update the local repository to the state of the remote repository).
+    
+    *- merge:
+        
+        Combines files from the local repository to the working copy.
+    ----------
+    
+    2- pull:
+        
+        Does "git fetch" and "git merge". 

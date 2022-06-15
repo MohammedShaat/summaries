@@ -1,0 +1,222 @@
+1- create a directory:
+    $ mkdir <name>
+
+2- delete a directory:
+    $ rm -r <name>
+
+3- show directory contents:
+
+    $ ls
+    
+    1- one item per line:
+        $ ls -1
+    
+    2- reverse order:
+        $ ls -r
+    
+    2- list everything with details:
+        $ ls -al
+
+4- create a git repository:
+    $ git iniit <name>
+
+5- Getting status:
+    $ git status
+
+6- Moving a file from Working Directory to Stagin Area:
+    $ git add <fileName>
+
+7- Commit (with inline commit message directly on command):
+    $ git commit -m "<message>"
+
+9- Create a Git repository in current directory:
+    $ git init .
+
+10- Add all files in current directory into Staging Area:
+    $ git add .
+
+11- Commit (with inline commit message by editor):
+    $ git commit
+
+12- Show all commits:
+    $ git log
+
+13- Show all commits with diff:
+    $ git show
+
+14- Create a file:
+    $ touch <fileName>
+
+15- Show tracked files:
+    $ git ls-files
+
+16- Add modified files to Staging Are and then Commit them:
+    $ git commit -a
+    
+    $ git commit -am      (inline message on command)
+
+17- Unstage a file:
+    $ git reset HEAD <fileName>
+
+18- Back to last sate of the file in Git Repository:
+    $ git checkout -- <fileName>
+
+19- Get help/information for log command:
+    $ git help log
+
+20- History of Git Repository:
+    $ git log --oneline --graph --decorate --all
+
+    * --oneline : one line
+    * --graph : graphical representation (asterisk)
+    * --decorate : ref names (branches)
+    * --all : show history of all branches
+
+21- Get help/information for log command:
+    $ git help log
+
+22- Create alias command (shortcut):
+    $ git config --global alias.<aliasName> "<command>"
+
+23- Rename a file with (Git command):
+    $ git mv <oldFileName> <newFileName>
+
+24- Rename a file with (Bash command):
+    $ mv <oldFileName> <newFileName>
+
+25- Delete a file with (Git command):
+    $ git rm <fileName>
+
+26- Delete a file with (Bash command):
+    $ rm <fileName>
+
+27- Stage all files in same path (untracked, modified and deleted):
+    $ git add .
+
+28- Stage all files (untracked, modified and deleted):
+    $ git add -A
+
+29- Stage tracked files (modified and deleted):
+    $ git add -u
+
+30- Compare differences between two commits:
+    $ git diff <commit_1> <commit_2>
+
+    * using diff tool:
+        $ git difftool <commit_1> <commit_2>  
+
+31- Compare differences between recent change in Working Directory and HEAD:
+    $ git diff
+
+    * using diff tool:
+        $ git difftool
+
+32- Create a new branch:
+    $ git branch <branch>
+
+33- Switch to another branch:
+    $ git checkout <branch>
+
+34- Merge a branch:
+    $ git merge <branch>
+
+35- Delete a branch:
+    $ git branch -d <branch>
+
+36- List branches:
+    $ git branch
+
+37- Create and switch to a new branch:
+    $ git checkout -b <branch>
+
+38- Create a lightweight tag:
+    $ git tag <tag>
+
+39- Create an annotated tag:
+    $ git tag -a <tag> -m "<message>"
+
+40- Delete a tag:
+    $ git tag -d <tag>
+
+41- Show a tag's data:
+    $ git show <tag>
+
+42- List tags:
+    $ git tag
+    
+    * using a pattern:
+        $ git tag -l "<pattern>"
+
+        $ git tag --list "<pattern>"
+
+43- Tag a previous commit:
+    $ git tag <tag> <commit>
+
+    $ git tag -a <tag> <commit> -m "<message>"
+
+44- Create a stash:
+    $ git stash
+
+45- list stashes:
+    $ git stash list
+
+46- show all actions in Repository:
+    $ git reflog
+
+47- Show remote repositories:
+    $ git remote -v
+
+48- Add a new remote repository:
+    $ git remote add <remote name> <remote URL>
+
+49- Synchronize changes between a local repository and a remote repository:
+    $ git push -u <remote repository name> <local branch name> --tags
+    
+        e.g.: $ git push -u origin master --tags
+
+    * -u : Setup tracking branch relationship between the master branch on the local repository and the master branch on the remote repository.
+
+50- Clone a remote repository:
+    $ git clone <URL>
+
+    
+    $ git clone <URL> <directory name>
+
+51- Copy a driectory and its content:
+    $ cp -R <source directory> <destination directory>
+
+    e.g:
+        $ cp -R ~/downloads/compressed/initializr/* .
+
+52- Show information about a remote reference connection:
+    $ git remote show <reference name>
+
+53- List all branches (local and remote):
+    $ git remote show <reference name>
+
+54- Remove remote tracking branches (referenes) which no longer exist on remote:
+    $ git fetch -p
+
+55- Delete a remote branch (on Github):
+    $ git push origin :update-readme
+
+56- Reapply local changes on remote changes:
+    $ git pull --rebase
+
+57- Push a tag to Github:
+    $ git push <remote> <tag>
+
+58- Push all tags to Github:
+    $ git push --tags
+
+59- Delete a tag on Github by local command:
+    $ git push <remote> :<tag>
+
+60- Update a tag:
+    $ git tag -f <tag> <commit>
+
+61- Push an updated tag:
+    $ git push --force <remote> <tag>
+
+62- Create a branch on local repository when there are multiple remotes:
+    $ git checkout -b <branch> <remote>/<remote branch>
