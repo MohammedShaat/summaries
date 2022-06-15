@@ -105,6 +105,7 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
 - [List Tags](topics/git/list-tags.md#list-tags)
 - [Create A Stash](topics/git/create-a-stash.md#create-a-stash)
   - [Create A Stash With Name](topics/git/create-a-stash.md#create-a-stash-with-name)
+- [Stash A Single File](topics/git/stash-a-single-file.md#stash-a-single-file)
 - [Apply A Stash](topics/git/apply-a-stash.md#apply-a-stash)
   - [Pop A Stash](topics/git/apply-a-stash.md#pop-a-stash)
 - [Delete A Stash](topics/git/delete-a-stash.md#delete-a-stash)
