@@ -14,7 +14,7 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
 ---
 
 ### Markdown [📁](topics/markdown#markdown)
-- [Heading](topics/markdown/heading)
+- [Heading](topics/markdown/heading.md#heading)
 - [Text Formattting](topics/markdown/text-formatting)
   - [Bold](topics/markdown/text-formatting.md#bold)
   - [Italic](topics/markdown/text-formatting.md#italic)
