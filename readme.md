@@ -107,6 +107,8 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
   - [Create A Stash With Name](topics/git/create-a-stash.md#create-a-stash-with-name)
 - [Apply A Stash](topics/git/apply-a-stash.md#apply-a-stash)
   - [Pop A Stash](topics/git/apply-a-stash.md#pop-a-stash)
+- [Delete A Stash](topics/git/delete-a-stash.md#delete-a-stash)
+- [Delete All Stashes](topics/git/delete-all-stashes.md#delete-all-stashes)
 - [List Stashes](topics/git/list-stashes.md#list-stashes)
 - [Reflog (Shows track updates of the branches's tips/HEADs)](topics/git/reflog.md#reflog)
 - [List URLs Of Remote Repositories](topics/git/list-urls-of-remote-repositories.md#list-urls-of-remote-repositories)
