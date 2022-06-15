@@ -1,4 +1,4 @@
-# Remove Deleted Remote Tracking Branch
+# Remove Deleted Remote Tracking Branches
 
 `git fetch -p`
 
