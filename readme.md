@@ -116,7 +116,7 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
 - [Remove Deleted Remote Tracking Branch](topics/git/remove-deleted-remote-tracking-branches.md#remove-deleted-remote-tracking-branches)
 - [Delete A Remote Branch Locally](topics/git/delete-a-remote-branch-locally.md#delete-a-remote-branch-locally)
 - [Apply Remote Changes And Then Local changes](topics/git/apply-remote-changes-and-then-local-changes.md#apply-remote-changes-and-then-local-changes)
-- [Push A Tag To The Remote Repository](topics/git/push-a-tag-to-the-remote-repository.md#push)
+- [Push A Tag To The Remote Repository](topics/git/push-a-tag-to-the-remote-repository.md#push-a-tag-to-the-remote-repository)
   - [Push All Tags To The Remote Repository](topics/git/push-a-tag-to-the-remote-repository.md#push-all-tags-to-the-remote-repository)
   - [Push An Updated Tag To The Remote Repository](topics/git/push-a-tag-to-the-remote-repository.md#push-an-updated-tag-to-the-remote-repository)
 - [Create A Branch On The Local Repository When There Are Multiple Remotes With The Same Branch Name](topics/git/create-a-branch-on-the-local-repository-when-there-are-multiple-remotes-with-the-same-branch-name.md#create-a-branch-on-the-local-repository-when-there-are-multiple-remotes-with-the-same-branch-name)
