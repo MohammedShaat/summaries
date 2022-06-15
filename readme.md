@@ -4,7 +4,7 @@ I write here my notes and summarize what I learn, as a reference.
 
 Note: click on the folder icon `📁` to redirect to the topic's directory
 
->Have a lovely day :)
+>Have a lovely day 😊
 
 ## Topics
 - [Markdown](#markdown-) [📁​](topics/markdown#markdown)
@@ -92,3 +92,12 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
   - [Compare Differences Between Changes In The Working Directory And Head](topics/git/compare-differences-between-two-commits.md#compare-differences-between-changes-in-the-working-directory-and-head)
 - [Create A New Branch](topics/git/create-a-new-branch.md#create-a-new-branch)
 - [Swithc To Another Branch](topics/git/switch-to-another-branch.md#switch-to-another-branch)
+- [Merege A Branch](topics/git/merge-a-branch.md#merge-a-branch.md)
+- [Delete A Branch](topics/git/delete-a-branch.md#delete-a-branch.md)
+- [List Branches](topics/git/list-branches.md#list-branches.md)
+  - [List Only Local Branches](topics/git/list-branches.md#list-only-local-branches.md)
+  - [List Local And Remote Branches](topics/git/list-branches.md#list-local-and-remote-branches.md)
+- [Create A Tag](topics/git/create-a-tag.md#create-a-tag)
+  - [Create A Lightweight Tag](topics/git/create-a-tag.md#create-a-lightweight-tag)
+  - [Create An Annotated Tag](topics/git/create-a-tag.md#create-an-annotated-tag)
+- [Delete A Tag](topics/git/delete-a-tag.md#delete-a-tag)
