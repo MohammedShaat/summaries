@@ -111,7 +111,7 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
 - [Reflog (Shows track updates of the branches's tips/HEADs)](topics/git/reflog.md#reflog)
 - [List URLs Of Remote Repositories](topics/git/list-urls-of-remote-repositories.md#list-urls-of-remote-repositories)
 - [Synchronize/Push Changes To The Remote Repository](topics/git/synchronize-changes-to-the-remote-repository.md#synchronizepush-changes-to-the-remote-repository)
-- [Clone A Repository](topics/git/list-urls-of-remote-repositories.md#list-urls-of-remote-repositories)
+- [Clone A Repository](topics/git/clone-a-remote-repository.md#clone-a-remote-repository)
 - [Show Detailed Information About Remote Repository](topics/git/show-detailed-information-about-remote-repository.md#show-detailed-information-about-remote-repository)
 - [Remove Deleted Remote Tracking Branch](topics/git/remove-deleted-remote-tracking-branches.md#remove-deleted-remote-tracking-branches)
 - [Delete A Remote Branch Locally](topics/git/delete-a-remote-branch-locally.md#delete-a-remote-branch-locally)
