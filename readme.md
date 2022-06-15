@@ -92,7 +92,7 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
   - [Compare Differences Between Changes In The Working Directory And Head](topics/git/compare-differences-between-two-commits.md#compare-differences-between-changes-in-the-working-directory-and-head)
 - [Create A New Branch](topics/git/create-a-new-branch.md#create-a-new-branch)
 - [Swithc To Another Branch](topics/git/switch-to-another-branch.md#switch-to-another-branch)
-- [Merege A Branch](topics/git/merge-a-branch.md#merge-a-branch.md)
+- [Merege A Branch](topics/git/merge-a-branch.md#merge-a-branch)
 - [Delete A Branch](topics/git/delete-a-branch.md#delete-a-branch.md)
 - [List Branches](topics/git/list-branches.md#list-branches.md)
   - [List Only Local Branches](topics/git/list-branches.md#list-only-local-branches.md)
