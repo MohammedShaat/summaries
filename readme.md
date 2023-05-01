@@ -1,8 +1,7 @@
 # Summaries & Notes
 
-I write here my notes and summarize what I learn, as a reference.
-
-Note: click on the folder icon `📁` to redirect to the topic's directory
+Here I take notes and summarize what I learn.<br>
+Note: click on the folder icon `📁` to redirect to the topic's directory.
 
 >Have a lovely day 😊
 
