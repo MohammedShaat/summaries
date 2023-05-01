@@ -10,7 +10,7 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
 - [Markdown](#markdown-) [📁​](topics/markdown#markdown)
 - [Searching Techniques](#searching-techniques-) [📁​](topics/searching-techniques#searching-techniques)
 - [Git](#git-) [📁​](topics/git#commands)
-- [Android-Kotlin](#android-)  [📁​](topics/git#commands)
+- [Android-Kotlin](#android-development-📁)  [📁​](topics/git#commands)
 
 ---
 
@@ -126,5 +126,8 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
 - [Create A Branch On The Local Repository When There Are Multiple Remotes With The Same Branch Name](topics/git/create-a-branch-on-the-local-repository-when-there-are-multiple-remotes-with-the-same-branch-name.md#create-a-branch-on-the-local-repository-when-there-are-multiple-remotes-with-the-same-branch-name)
 
 
-### Android [📁](topics/git/readme.md#commands)
-- [Kotlin Flow](topics/android/kotlin-flow.md/)
+### Android Development [📁](topics/android-development/readme.md#android-development)
+- [Kotlin Flow](topics/android-development/chapters/kotlin-flow.md#flow-collection)
+    - [Flow vs. StateFlow](topics/android-development/chapters/kotlin-flow.md#flow-vs-stateflow)
+    - [SharedFlow vs. LiveData](topics/android-development/chapters/kotlin-flow.md#sharedflow-vs-livedata)
+    - [SharedFlow vs. Channel](topics/android-development/chapters/kotlin-flow.md#sharedflow-vs-channel)
