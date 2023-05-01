@@ -10,7 +10,7 @@ Note: click on the folder icon `📁` to redirect to the topic's directory
 - [Markdown](#markdown-) [📁​](topics/markdown#markdown)
 - [Searching Techniques](#searching-techniques-) [📁​](topics/searching-techniques#searching-techniques)
 - [Git](#git-) [📁​](topics/git#commands)
-- [Android-Kotlin](#android-development-📁)  [📁​](topics/git#commands)
+- [Android Development](#android-development-)  [📁​](topics/git#commands)
 
 ---
 
